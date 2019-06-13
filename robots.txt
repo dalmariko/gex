@@ -1,0 +1,8 @@
+User-agent:Yandex
+Disallow:
+Host: g2-extreme.com
+Sitemap: http://g2-extreme.com/sitemap.xml
+
+User-agent:*
+Disallow:
+Sitemap: http://g2-extreme.com/sitemap.xml
